@@ -2,10 +2,10 @@
 Single Channel Queueing System in Python
 
 ## Group-4
-1.Rahat Ara Tisa(CSE 01306119).
-2.Minhajul Arefin(CSE 01306106).
-3.Khaled Hossain(CSE 01306131).
-4.Mohammad Faysal Hossai(CSE 01306133).
+1) Rahat Ara Tisa(CSE 01306119).
+2) Md. Minhajul Arefin(CSE 01306106).
+3) Khaled Hossain(CSE 01306131).
+4) Mohammad Faysal Hossain(CSE 01306133).
 
 ## INTRODUCTION
 In order to describe queuing problems through mathematical formulation, some assumptions are made by considering arrivals and service as patterned by known function. Equations representing the distribution of the time between arrivals are used with other equations depicting other features such as the distribution of the service time. The relationship existing between these equations is the matter studied in waiting line theory. Arrivals of people or entry requirements (events) are customarily Poisson distributed. The duration of the service provided by people is usually exponentially distributed.
@@ -51,11 +51,5 @@ However, the two coins land in four different ways: TT, HT, TH, and HH. Therefor
 2. Python 
 3. Spicy
 
-## Contribution
-.Rahat Ara Tisa(CSE 01306119).
-.Md. Minhajul Arefin(CSE 01306106).
-.Khaled Hossain(CSE 01306131).
-.Mohammad Faysal Hossain(CSE 01306133).
-
 ## Under Supervision
-Honourable sir Muhtadir Shihab
+Honourable sir Md. Muhtadir Rahman
