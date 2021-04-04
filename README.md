@@ -52,4 +52,4 @@ However, the two coins land in four different ways: TT, HT, TH, and HH. Therefor
 3. Spicy
 
 ## Under Supervision
-Honourable sir Md. Muhtadir Rahman
+Honorable sir Md. Muhtadir Rahman
