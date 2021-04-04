@@ -46,11 +46,16 @@ A typical example of a random variable is the outcome of a coin toss. Consider a
 
 However, the two coins land in four different ways: TT, HT, TH, and HH. Therefore, the P(Y=0) = 1/4 since we have one chance of getting no heads (i.e., two tails [TT] when the coins are tossed). Similarly, the probability of getting two heads (HH) is also 1/4. Notice that getting one head has a likelihood of occurring twice: in HT and TH. In this case, P (Y=1) = 2/4 = 1/2.
 
-## Contributing
+## Requirements  
+1. Google  colab 
+2. Python 
+3. Spicy
+
+## Contribution
 .Rahat Ara Tisa(CSE 01306119).
-.Minhajul Arefin(CSE 01306106).
+.Md. Minhajul Arefin(CSE 01306106).
 .Khaled Hossain(CSE 01306131).
-.Mohammad Faysal Hossai(CSE 01306133).
+.Mohammad Faysal Hossain(CSE 01306133).
 
 ## Under Supervision
 Honourable sir Muhtadir Shihab
